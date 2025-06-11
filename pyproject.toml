@@ -1,0 +1,5 @@
+[project]
+name = "hermes-agent-team"
+version = "0.1.0"
+description = "基于 Hermes Agent 构建的本地多 Agent 团队协作 Web 系统"
+requires-python = ">=3.10"
